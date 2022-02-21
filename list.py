@@ -3,7 +3,7 @@ print(name[4])
 name.append("saurav");
 print(name)
 name.remove("rakesh")
-print(name)
+print(name)   #
 name2=["ganu","dike"]
 print(name+name2)
 
